@@ -1,0 +1,5 @@
+Krok 2 - Projektowanie programu
+
+1. Program powinien być aplikacją konsolową.
+2. Program będzie używany przez pracowników firmy MacroMuscel, Inc.
+3. Program powinien przyjmować wartość liczbową zmiennoprzecinkową w calach, przeliczać ją na centrymetry i wypisać na ekranie.
