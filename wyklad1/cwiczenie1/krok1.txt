@@ -1,0 +1,6 @@
+Krok 1 - Określenie celów programu
+
+1. Program powinien posiadać przelicznik cali na centymetry.
+2. Program powinien umożliwiać wprowadzenie użytkownikowi wartości liczbowej.
+3. Program powinien przeliczyć wprowadzoną wartość zgodnie ze zdefiniowanym przelicznikiem.
+4. Program powinien wypisać na ekranie obliczoną wartość.
